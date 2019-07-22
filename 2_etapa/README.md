@@ -1,4 +1,4 @@
-# 2 etapa
+# Fase 2
 
 Projeto Edital Garage Sebrae PUCPR
 

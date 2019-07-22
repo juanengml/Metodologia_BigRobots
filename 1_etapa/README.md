@@ -1,4 +1,4 @@
-# 1 etapa
+# Fase 1
 
 #### **\[ Módulo 1: Estudo e aprendizado de Lógica \]**
 

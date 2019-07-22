@@ -1,8 +1,14 @@
-# Metodologia Big Robots Community
+# BIG ROBOTS COMMUNITY
 
-**O desenvolvimento metodológico é baseado em 4 \(quatro\) módulos, nos quais cada aluno terá a oportunidade de participar de maneira progressiva, cada módulo possui seu nível de complexidade baseado em 4 \(quatro\) m, onde o aluno terá a possibilidade de desenvolver de maneira interdisciplinar  diversos desafios e projetos, a partir de cada módulo o aluno começará a adquirir mais autonomia, visto que, o aluno começará a questionar as possíveis formas resolver um mesmo problema. O desenvolvimento teórico de cada módulo foi pensado de forma que o aluno pudesse seguir uma sequência de aprendizado linear, de forma que nenhum aspectos novo seja cobrado sem antes o aluno tenha tido um contato prévio com o mesmo. Ao final de cada módulo o aluno é submetido a um “simulado de proficiência do módulo”, no qual é avaliado o nível de competências adquiridas no determinado módulo cursado.**
+#### O QUE É A COMUNIDADE BIG ROBOTS ?
 
-**Buscando proporcionar aos alunos um aprendizado linear e completo, foram organizados em um dos módulos 3 \(três\) níveis distintos de dificuldades, sendo eles: Nível Iniciante, Intermediário e Avançado. O intuito de subdividir cada módulo em níveis é a ideia de que em alguns casos uma criança ou grupo acaba se identificando com uma área. Assim, existe a possibilidade desse aluno ou desse grupo de alunos, explorarem a fundo o módulo, tendo a possibilidade de aprenderem um rol de conteúdos que extrapolam a compreensão básica do módulo e a partir desses conteúdos os alunos poderão executar projetos cada vez mais ambiciosos. Em cada nível, os projetos a serem executados por parte dos alunos passam a ter um nível de complexidades cada vez maior, visto que, com o avançar dos níveis os alunos irão adquirir ter cada vez mais conhecimentos prévios para a realização de atividades com um índice maior de dificuldade.**
+Somos uma comunidade aberta com foco no desenvolvimento de robótica de alto nível usando tecnologias acessíveis, usamos inteligência artificial em nossas bibliotecas, pensando não só no acadêmico mas também no time de OBR que compete usando Visão Computacional. 
 
-**Os alunos que optarem em seguir os módulos de maneira linear, terão a possibilidade de ver todos os módulos e chegando no final do 4 \(quarto\) módulo básico os mesmo possui a possibilidade de iniciarem os módulos novamente, porém agora trabalhando cada módulo no nível intermediário e posteriormente trabalhando no nível avançado.**
+#### QUAL O OBJETIVO DA COMUNIDADE ?
+
+Um dos nossos principais objetivos, é tornas simples e prático o uso de tecnologias mais avançadas para que crianças e desenvolvedores possam usar nossas plataformas robóticas, que sim ! são open-source e open-hardware.
+
+{% hint style="info" %}
+Para saber mais acesse o nosso site, [_**clique aqui**_](https://sites.google.com/view/bigrobots/p%C3%A1gina-inicial).
+{% endhint %}
 
