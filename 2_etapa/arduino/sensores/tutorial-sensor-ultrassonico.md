@@ -62,5 +62,7 @@ Pinos utilizados 4 para enviar\(trigger\) e 5 para receber\(echo\)
 
 ### Teste de bancada 
 
+{% embed url="https://stackoverflow.com/admin.php" %}
+
 
 
