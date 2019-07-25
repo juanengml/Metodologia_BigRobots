@@ -26,7 +26,6 @@
       * [Usando TIP 120 para Controlar um Motor DC](2_etapa/arduino/eletronica-basica/usando-tip-120-para-controlar-um-motor-dc.md)
       * [Usando Modulo relê para controlar uma lampada](2_etapa/arduino/eletronica-basica/usando-modulo-rele-para-controlar-uma-lampada.md)
       * [Brincando com resistores](2_etapa/arduino/eletronica-basica/brincando-com-resistores.md)
-      * [Untitled](2_etapa/arduino/eletronica-basica/untitled.md)
     * [Atuadores](2_etapa/arduino/atuadores.md)
   * [Introdução a Dashboard e sistemas de monitoramento](2_etapa/introducao-a-dashboard-e-sistemas-de-monitoramento.md)
 * [Fase 3](3_etapa/README.md)
