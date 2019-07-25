@@ -1,0 +1,2 @@
+# Brincando com resistores
+

@@ -4,7 +4,7 @@
 
 ### Circuito
 
-### Codigo
+### Código
 
 ### Teste de Bancada
 

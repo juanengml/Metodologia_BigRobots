@@ -2,9 +2,9 @@
 
 ### Descrição
 
-Codigo
+### Código
 
-Circuito
+### Circuito
 
-### ~~Teste de Mesa~~
+### Teste de Mesa
 
