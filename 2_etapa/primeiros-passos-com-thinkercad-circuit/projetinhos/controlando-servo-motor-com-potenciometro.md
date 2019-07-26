@@ -44,7 +44,9 @@ O valor mapeado para o novo intervalo.
 
 ### Teste em Simulação 
 
-{% embed url="https://youtu.be/82syTV7KRms" %}
+{% embed url="https://www.youtube.com/watch?v=82syTV7KRms" %}
+
+
 
 
 

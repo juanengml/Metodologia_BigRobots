@@ -16,6 +16,15 @@ A ideia nesse projeto é entender como funciona uma garra mecânica usando os co
 
 ![](https://stempedia-e872.kxcdn.com/wp-content/uploads/2017/09/ezgif.com-optimize-35.gif)
 
-  
+{% page-ref page="controlando-servo-motor-com-potenciometro.md" %}
+
+### Automação com sistema de luminosidade 
+
+Nesse projeto vamos usar um sensor de luminosidade para automatizar lâmpadas do ambiente para reduzir gastos de energia. 
+
+![](https://uploads.filipeflop.com/2018/12/PROJETO010.gif)
+
+{% page-ref page="usando-sensor-de-luminosidade-para-controle-de-led.md" %}
+
 
 

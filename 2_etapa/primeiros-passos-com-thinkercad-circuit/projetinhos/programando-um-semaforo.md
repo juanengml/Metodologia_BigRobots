@@ -21,7 +21,7 @@
 
 ![Quando Concluir o c&#xF3;digo Inicie a Simula&#xE7;&#xE3;o ](../../../.gitbook/assets/screenshot_2019-07-25-autodesk-circuits-3.png)
 
-{% embed url="https://youtu.be/Xeg4SG8FdgI" %}
+![](https://media.giphy.com/media/THyRZmgSgG0rE09RVH/giphy.gif)
 
 
 
