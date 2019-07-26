@@ -4,7 +4,7 @@
 
 Este modulo Relé 5V com 1 canal é a alternativa perfeita pra quem busca um módulo compacto e de qualidade para projetos com Arduino e outros controladores.
 
-
+![](../../../.gitbook/assets/36507730860_21d99c167e_b.jpg)
 
 ### Código
 
@@ -26,5 +26,11 @@ void loop(){
 
 ### Circuito
 
+![](../../../.gitbook/assets/arduino_ky-019_5v_relay_module_connections.png)
+
 ### Teste de Mesa
+
+{% embed url="https://stackoverflow.com/admin.php" %}
+
+
 
