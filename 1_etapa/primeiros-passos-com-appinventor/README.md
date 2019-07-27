@@ -38,6 +38,8 @@ Você cria aplicativos trabalhando com:
 
 ![](https://i0.wp.com/www.madeinweb.com.br/blog/wp-content/uploads/2019/01/vale-a-pena-investir-em-aplicativos.png?fit=1080%2C675&ssl=1)
 
+### Como Acessar a plataforma  ? 
+
 
 
 
