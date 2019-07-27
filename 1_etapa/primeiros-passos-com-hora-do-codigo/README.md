@@ -30,9 +30,21 @@ Nessa Fase inicial vamos aprender logica e conceitos basicos de ciencias da comp
 
 {% page-ref page="ajude-o-angry-birds-com-os-porcos.md" %}
 
+![](https://thumbs.gfycat.com/SoftBareImpala-small.gif)
+
+
+
 {% page-ref page="construa-seu-mundo-no-minecraft.md" %}
+
+![](https://media.giphy.com/media/11l2O6d7p18gEw/giphy.gif)
+
+
 
 {% page-ref page="crie-seu-proprio-jogo-ao-estilo-de-flapbird.md" %}
 
+![](https://blogs.glowscotland.org.uk/nl/coltnesshsbgebusinessict/files/2014/12/game1.gif)
+
 {% page-ref page="trilha-blockly.md" %}
+
+![](https://i.stack.imgur.com/bAfGi.gif)
 
