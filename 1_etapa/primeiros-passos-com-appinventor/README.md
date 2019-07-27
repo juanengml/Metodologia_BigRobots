@@ -40,6 +40,8 @@ Você cria aplicativos trabalhando com:
 
 ### Como Acessar a plataforma  ? 
 
+{% embed url="https://www.youtube.com/watch?v=B88uUSAlpp4" %}
+
 
 
 

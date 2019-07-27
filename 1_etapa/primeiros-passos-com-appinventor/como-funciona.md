@@ -66,5 +66,19 @@ A combinação de um ou mais comandos forma uma ação completa. E para facilita
 
 Por exemplo, você pode utilizar blocos de condicionais como if, for e etc. Assim é possível criar a lógica do seu aplicativo ligando com os componentes de tela que você adicionou no editor de design.
 
+### Download do Simulador
+
+{% embed url="https://www.youtube.com/watch?v=J69AxuQ9XOA" %}
+
+{% embed url="https://appinventor.mit.edu/explore/ai2/windows.html" %}
+
+
+
+### Configurando Simulador
+
+{% embed url="https://www.youtube.com/watch?v=oG5gpB\_H2hM" %}
+
+
+
 {% page-ref page="criando-um-novo-projeto.md" %}
 
