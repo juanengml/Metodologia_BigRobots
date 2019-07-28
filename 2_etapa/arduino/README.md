@@ -54,7 +54,7 @@ Imagine controlar as lampadas da sua casa ou automatizar as lampadas da sala de 
 
 ![Sim, lembra do App inventor do Modulo 1 ? podemos criar nosso app &#xE9; controlar nossa casa.](../../.gitbook/assets/y8tecad.gif)
 
-## OK, depois de vermos tudo isso vamos trabalhar ! Nos Próximos posta vamos começar nossa imersão nesse mundo maker {^\_^} e voltar a programar ! 
+## OK, depois de vermos tudo isso vamos trabalhar ! Nos Próximos posts vamos começar nossa imersão nesse mundo MAKER{^\_^} e voltar a programar ! 
 
 
 
