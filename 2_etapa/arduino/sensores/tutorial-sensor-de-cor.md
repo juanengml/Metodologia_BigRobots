@@ -119,9 +119,7 @@ void color()
 
 ![](../../../.gitbook/assets/teste-tcs230-serial-monitor.png)
 
-### Teste de Bancada
-
-{% embed url="https://stackoverflow.com/admin.php" %}
+### 
 
 
 

@@ -6,31 +6,54 @@ Este modulo Relé 5V com 1 canal é a alternativa perfeita pra quem busca um mó
 
 ![](../../../.gitbook/assets/36507730860_21d99c167e_b.jpg)
 
-### Código
-
-
+### Código V1
 
 ```c
-int tip = 3;
+int rele= 10;
 
 void setup(){
- pinMode(tip,OUTPUT);
+ pinMode(rele,OUTPUT);
 }
 void loop(){
- digitalWrite(tip,HIGH);
+ digitalWrite(rele,HIGH);
  delay(1000);
- digitalWrite(tip,LOW);
+ digitalWrite(rele,LOW);
  delay(1000);
 }
 ```
 
-### Circuito
+### Circuito v1
 
 ![](../../../.gitbook/assets/arduino_ky-019_5v_relay_module_connections.png)
 
-### Teste de Mesa
 
-{% embed url="https://stackoverflow.com/admin.php" %}
+
+### Código V2
+
+```c
+int rele= 7;
+char letra;
+
+void setup(){
+ Serial.begin(9600);
+ pinMode(rele,OUTPUT);
+}
+void loop(){
+ letra = Serial.read();
+ switch(letra){
+  case 'l':
+  digitalWrite(rele,HIGH);
+  break;
+  case 'd':
+  digitalWrite(rele,LOW);
+  break;
+ }
+}
+```
+
+### Circuito V2 
+
+![](https://uploads.filipeflop.com/2013/02/rele-lampadas_bb.png)
 
 
 
