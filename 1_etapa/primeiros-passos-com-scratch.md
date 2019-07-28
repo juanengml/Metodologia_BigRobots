@@ -1,2 +1,0 @@
-# Primeiros Passos com Scratch
-
