@@ -54,6 +54,7 @@
   * [Introdução a aprendizado de maquina e aplicações](2_etapa/introducao-a-dashboard-e-sistemas-de-monitoramento/README.md)
     * [Introdução a Machine Learning](2_etapa/introducao-a-dashboard-e-sistemas-de-monitoramento/introducao-a-machine-learning.md)
 * [Fase 3](3_etapa/README.md)
+  * [Introdução a Orange Canvas para inteligência artificial](3_etapa/introducao-a-orange-canvas-para-inteligencia-artificial.md)
   * [Python para Todos](3_etapa/python-para-todos/README.md)
     * [Primeiros Passos com PYTHON](3_etapa/python-para-todos/primeiros-passos-com-python.md)
     * [Usando Python com Arduino](3_etapa/python-para-todos/usando-python-com-arduino.md)
