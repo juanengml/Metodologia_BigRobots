@@ -59,7 +59,19 @@ Vamos ver como podemos entender as duas vertentes que a robótica liga, usando i
 
 
 
-### Introduzindo análise de dados e aplicando.
+### Introduzindo aprendizado de machine e analise de dados
+
+### O que é machine learning ?
+
+Faz parte do conceito de inteligência artificial, que estuda meios para que máquinas posam fazer tarefas que seriam executadas por pessoas.
+
+Machine learning veio direto das mentes do pessoal do início da IA, e a abordagem com algoritmos através dos anos incluiu árvore de aprendizado, programação lógica indutiva, agrupamento, aprendizado reforçado, redes Bayesianas, entre outros. Como sabemos, nenhuma dessas soluções chegou ao objetivo final de uma IA genérica, e mesmo uma IA limitada estava fora do nosso alcance com as abordagens iniciais de machine learning.
+
+![](https://imarticus.org/wp-content/uploads/2019/06/state.gif)
+
+### O que é analise de dados ?
+
+ **Análise de dados** é transformar números em informação, em significado, em solução de problemas. Infelizmente, isto não é algo tão simples como se parece, especialmente se você é novo nas metodologias de **análise**. Porém, há três princípios básicos que pode ajudá-lo a decidir como analisar os **dados**. E inúmeras ferramentas **Análise de dados** é transformar números em informação, em significado, em solução de problemas. Infelizmente, isto não é algo tão simples como se parece, especialmente se você é novo nas metodologias de **análise**. Porém, há três princípios básicos que pode ajudá-lo a decidir como analisar os **dados**. E inúmeras ferramentas
 
 ![](https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/699e4762225981.5a89af14d87a9.gif)
 

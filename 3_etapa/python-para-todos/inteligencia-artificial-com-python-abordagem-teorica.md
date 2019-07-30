@@ -10,6 +10,8 @@ description: >-
 
 Em nossa metodologia vamos aprender a resolver 2 tipos de problemas, problemas de classificação e regressão. Uma vai classificar como SIM ou NÃO, determinado tipo de problema e o outro vai prever algum valor numerico, do tipo "O robo preve que em 2 horas vai precisar carregar a bateria se continuar com o consulmo em valor de 60% de bateria".
 
+![](https://i0.wp.com/www.cienciaedados.com/wp-content/uploads/2018/06/ia.png?resize=900%2C572)
+
 ## Regressão x Classificação 
 
 ## KNN\(K - DISTANCIA DE VIZINHOS\)
