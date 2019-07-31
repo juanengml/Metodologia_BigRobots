@@ -8,11 +8,13 @@ Durante a realização deste módulo, os alunos começaram de fato a programar, 
 
 A partir dos estudos em programação de computadores em Python, serão apresentado aos alunos um rol de bibliotecas que podem ser utilizadas por eles durante a realização dos projetos. Assim, concluindo este módulo o alunos terá um leque de possibilidade para seguir, uma vez que, a partir do domínio da linguagem o aluno tem a possibilidade de realizar a  conversão de texto em código, solucionando problemas com conceitos dos módulos anteriores, lendo dados, tratando-os, aplicando comandos, estudando bibliotecas básicas para estudo de ciência de dados, estudando métodos de visão computacional baseado em aprendizado de máquina. Os temas desenvolvidos irão abordar 3 temas:
 
-TEMA - SUGESTÃO
+### PS: VALE RESSALTAR QUE TUDO NESSA FASE É SUGERIDO QUE SEJA FEITO USANDO UM SISTEMA OPERACIONAL LINUX, para mais informações acesse o link abaixo.
 
-• Evasão escolar - Sistema de intervenção estudantil
+{% page-ref page="../linux-hoje-linux-amanha-linux-pra-sempre.md" %}
 
-• Segurança da escola - Controle de Lab
+### TEMAs sugeridos para projetos - SUGESTÃO 
 
-• Competições - OBR, OBI, OBA e LARC
+* Evasão Escolar - Sistema de Inteversão estudantil
+* Segurança da escola - Controle automatizado dos labs e salas
+* Competições - OBR, OBI, OBA e LARC
 

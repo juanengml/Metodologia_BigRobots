@@ -68,4 +68,5 @@
   * [Construindo Dashboards com Python com flask](4_etapa/construindo-dashboards-com-python-com-flask.md)
   * [Robótica Aplicada](4_etapa/robotica-aplicada.md)
 * [Projetos](projetos.md)
+* [Linux Hoje ! Linux Amanha ! Linux PRA SEMPRE !!!!](linux-hoje-linux-amanha-linux-pra-sempre.md)
 
