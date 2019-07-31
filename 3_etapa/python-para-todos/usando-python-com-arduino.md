@@ -18,6 +18,10 @@ Primeiramente precisamos ter um codigo rodando no nosso arduino. De exemplo vamo
 
 
 
+### Circuito Arduino
+
+![](https://blog.udemy.com/wp-content/uploads/2014/05/LDR1-1-620x436.png)
+
 ### Código Arduino
 
 ```c
