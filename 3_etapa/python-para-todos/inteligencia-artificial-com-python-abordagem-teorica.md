@@ -16,7 +16,23 @@ Em nossa metodologia vamos aprender a resolver 2 tipos de problemas, problemas d
 
 ## KNN\(K - DISTANCIA DE VIZINHOS\)
 
+![](https://thumbs.gfycat.com/WildSorrowfulChevrotain-size_restricted.gif)
+
+
+
 ## K-MEAN\(GRUPO DE VIZINHOS\)
 
+![](https://i.imgur.com/wcpFFiu.gif)
+
+
+
 ## SVM\(SUPORT VECTOR MACHINE\)
+
+![](https://miro.medium.com/max/1200/1*Hz76FfcofSRNPLJUZR6YKg.gif)
+
+
+
+### REDES NEURAIS
+
+![](https://thumbs.gfycat.com/DeadlyDeafeningAtlanticblackgoby-size_restricted.gif)
 
