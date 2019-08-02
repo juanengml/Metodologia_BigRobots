@@ -71,9 +71,7 @@ Usar esse sensor com um modulo relê para controlar e acionar rega da planata.
 
 ![](../../../.gitbook/assets/arduino-para-regar-2-de-5-273x300.jpg)
 
-### Teste de Bancada
-
-{% embed url="https://stackoverflow.com/admin.php" %}
+### 
 
 
 

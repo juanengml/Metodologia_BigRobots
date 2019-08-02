@@ -50,9 +50,5 @@ void loop(){
 
 
 
-### Teste de Bancada
-
-{% embed url="https://stackoverflow.com/admin.php" %}
-
 
 

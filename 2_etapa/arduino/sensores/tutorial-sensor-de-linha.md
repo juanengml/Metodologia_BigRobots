@@ -39,9 +39,7 @@ Versão Modular - Utilizada em competições por ser mais simples de utilizar é
 
 
 
-## Teste de Bancada 
-
-{% embed url="https://stackoverflow.com/admin.php" %}
+## 
 
 
 

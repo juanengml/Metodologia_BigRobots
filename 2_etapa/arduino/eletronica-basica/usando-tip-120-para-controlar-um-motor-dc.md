@@ -22,10 +22,6 @@ void loop(){
 }
 ```
 
-### Teste de Bancada
-
-{% embed url="http://stackoverflow.com/admin.php" %}
-
 
 
 

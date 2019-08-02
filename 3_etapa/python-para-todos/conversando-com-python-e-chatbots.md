@@ -18,7 +18,7 @@ Chatbot é um programa de computador que tenta simular um ser humano na conversa
 
 ![](https://miro.medium.com/max/500/1*G7T4sFO-1ByMepsa5OilsQ.gif)
 
-Em seguida temos essas partes convertida em numeros e passada por uma serie de processos que permitem extrair informações e aplicar em contextos de acordo com as entradas.
+Em seguida temos essas partes convertida em números e passada por uma serie de processos que permitem extrair informações e aplicar em contextos de acordo com as entradas.
 
 ![](https://miro.medium.com/max/500/1*d_POV7c8fzHbKuTgJzCxtA.gif)
 
@@ -102,7 +102,7 @@ while True:
         print('ChatBot: Ainda não sei responder esta pergunta')
 ```
 
-### Viu como é Simples ? Então, treine seu bot usando essa base de dados do link e veja o que acontece....{^\_^}
+### Viu como é Simples ? Então, treine seu bot usando essa suas proprias base de dados e veja o que acontece....{^\_^}
 
 
 

@@ -30,9 +30,5 @@ void loop(){
 
 ![](../../../.gitbook/assets/rfp30n06le-arduino-lightbulb%20%281%29.png)
 
-### Teste de Mesa
-
-{% embed url="http://stackoverflow.com/admin.php" %}
-
 
 

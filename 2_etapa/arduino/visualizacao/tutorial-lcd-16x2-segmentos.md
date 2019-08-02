@@ -60,10 +60,6 @@ void loop()
 
 ![](../../../.gitbook/assets/screenshot_2019-07-22-modulo-i2c-lcd-code-pesquisa-google.png)
 
-### Teste de Bancada
-
-{% embed url="http://stackoverflow.com/admin.php" %}
-
 
 
 

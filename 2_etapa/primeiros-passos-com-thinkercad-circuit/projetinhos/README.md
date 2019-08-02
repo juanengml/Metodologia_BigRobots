@@ -1,10 +1,10 @@
 # Projetinhos
 
-Nessta Sessão vamos programar alguns sistemas para entendermos melhor os componentes que iremos estudar.
+Nessa Sessão iremos programar alguns sistemas para entendermos melhor os componentes que iremos estudar.
 
 ### Semáforo
 
-Nesse projetinho vamos construir um pequeno semaforo com leds, a ideia é criar um conceito simples para podermos aplicar em maquetes ou simulações em pequena escala.
+Nesse projetinho um pequeno semaforo com leds, a ideia é criar um conceito simples para podermos aplicar em maquetes ou simulações em pequena escala.
 
 ![](http://fritzenlab.com.br/wp-content/uploads/2017/07/sinaleiro-semaforo-sinaleira-sinal-FritzenLab.gif)
 
@@ -20,7 +20,7 @@ A ideia nesse projeto é entender como funciona uma garra mecânica usando os co
 
 ### Automação com sistema de luminosidade 
 
-Nesse projeto vamos usar um sensor de luminosidade para automatizar lâmpadas do ambiente para reduzir gastos de energia. 
+Usando um sensor de luminosidade para automatizar lâmpadas do ambiente para reduzir gastos de energia. 
 
 ![](https://uploads.filipeflop.com/2018/12/PROJETO010.gif)
 

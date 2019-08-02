@@ -1,4 +1,4 @@
-# Criando meu Primeiro Jogo !!!!!\(Parte 2\)
+# Criando meu Jogo de Labirinto !!!!!\(Parte 2\)
 
 ### Animação
 

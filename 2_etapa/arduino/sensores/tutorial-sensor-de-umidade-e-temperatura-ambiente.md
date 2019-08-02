@@ -67,10 +67,6 @@ void loop()
 
 ![](../../../.gitbook/assets/circuito_dht111.jpg)
 
-### Teste de Bancada
-
-{% embed url="https://stackoverflow.com/admin.php" %}
-
 
 
 

@@ -60,9 +60,5 @@ Pinos utilizados 4 para enviar\(trigger\) e 5 para receber\(echo\)
 
 ![](../../../.gitbook/assets/arduino_hc_sr04_bb.png)
 
-### Teste de bancada 
-
-{% embed url="https://stackoverflow.com/admin.php" %}
-
 
 

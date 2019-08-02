@@ -28,10 +28,6 @@ delay(10);
 
 ![](../../../.gitbook/assets/screenshot_2019-07-22-sensor-ldr-arduino-pesquisa-google.png)
 
-### Teste de Bancada
-
-{% embed url="http://stackoverflow.com/admin.php" %}
-
 
 
 
