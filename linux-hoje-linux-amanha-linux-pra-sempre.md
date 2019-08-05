@@ -43,7 +43,7 @@ Boa parte do que você esta usando só está acessivel por que linux existe, vis
 
 Mas fique tranquilo vamos estudar linux mais ao decorrer do seu modulo.  Agora por favor de um like para o gato raivoso kkkkkk.
 
-![](https://img.buzzfeed.com/buzzfeed-static/static/enhanced/webdr06/2013/4/6/9/anigif_enhanced-buzz-23100-1365255786-3.gif?downsize=700:*&output-format=auto&output-quality=auto)
+![](https://media.giphy.com/media/naxep4vNBAOL6/giphy.gif)
 
 
 

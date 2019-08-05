@@ -16,11 +16,15 @@ O foco principal deste projeto é atrair pessoas para o mundo da programaçã
 
 ### A Interface
 
- ![](http://s4a.cat/img/shot01.png) _Um programa do S4A que controla um sensor de luz Theremin, com capacidades de gravação e execução_
+  _Um programa do S4A que controla um sensor de luz Theremin, com capacidades de gravação e execução_
 
-Objetos do Arduino oferecem blocos para as funcionalidades básicas do microcontrolador, saídas e entradas analógicas e digitais, e também para de alto nível. Você pode encontrar blocos para gerenciar servomotores padrão ou de rotação contínua:
+![](https://cdn.instructables.com/FDL/S35H/J58FUA94/FDLS35HJ58FUA94.LARGE.jpg)
 
-![](http://s4a.cat/img/blocks.png)
+Objetos do Arduino oferecem blocos para as funcionalidades básicas do microcontrolador, saídas e entradas analógicas e digitais, e também para de alto nível. Você pode encontrar blocos para gerenciar servomotores padrão ou de rotação contínua:
+
+![](https://www.kitronik.co.uk/wp/wp-content/uploads/2017/01/2568-mini-360-degree-servo-gif1.gif)
+
+
 
 Em S4A, uma placa [Arduino](http://arduino.cc) é representada por um tipo especial de figura. A figura do Arduino encontrará automaticamente a porta usb onde a placa está conectada.
 
