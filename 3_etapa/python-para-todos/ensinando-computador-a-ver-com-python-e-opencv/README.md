@@ -17,7 +17,7 @@ description: >-
 
 ![](https://navoshta.com/images/posts/detecting-road-features/project_video_sample-2.gif)
 
-Por meio dos engenheiros de carros autonomos hoje é possivel estudar e poder contribuir com esse tipo de técnologia e tudo começa estudando opencv, python inteligencia artificial.
+Por meio dos engenheiros de carros autonomos hoje é possivel estudar e poder contribuir com esse tipo de tecnologia e tudo começa estudando opencv, python inteligencia artificial.
 
 ### Criando um Detector de Pedestre com webcam
 
@@ -25,19 +25,21 @@ Por meio dos engenheiros de carros autonomos hoje é possivel estudar e poder co
 
 Construir um sistema que detecte pessoas na rua ou em um espaço para saber se tem pessoas no ambiente ou não, com  isso podemos automatizar postes de luzes, ou em salas de aula saber quando tem que ligar ou desligar o ventilador quando não tiver ninguém na sala.
 
-
+{% page-ref page="criando-um-detector-de-presenca-com-webcam.md" %}
 
 ### Robô que Detecta gatos perto do pote de ração.
 
 ![](https://girliemac.com//assets/images/articles/2015/12/jamie-detected.png)
 
-Tambem é possivel construir um sisteminha que saiba os horarios que seu gato come e com isso estimar o tempo de consulmo medio do cato para sua mãe comprar mais ou menos ração para o gato. 
+Tambem é possível construir um sisteminha que saiba os horarios que seu gato come e com isso estimar o tempo de consumo medio do cato para sua mãe comprar mais ou menos ração para o gato. 
+
+{% page-ref page="robo-que-detecta-gatos-perto-do-pote-de-racao..md" %}
 
 ### Construir nossos próprios robôs usando OpenCV para Dirigir sozinho
 
 ![](https://thumbs.gfycat.com/SeveralAccomplishedIchneumonfly-size_restricted.gif)
 
-Nesse modulo vamos falar sobre como podemos usar algumas técnicas de visão computacional para ensinar robôs a seguir linha e poder competir na Olimpiada Brasileira de Robôtica.
+Nesse modulo vamos falar sobre como podemos usar algumas técnicas de visão computacional para ensinar robôs a seguir linha e poder competir na Olimpíada Brasileira de Robótica.
 
 ###  
 

@@ -66,6 +66,7 @@
       * [Usando SVM para Deteção de Objetos](3_etapa/python-para-todos/inteligencia-artificial-com-python-abordagem-teorica/usando-svm-para-detecao-de-objetos.md)
       * [Como instalar OpenCV no raspberry pi 3 e Zero](3_etapa/python-para-todos/inteligencia-artificial-com-python-abordagem-teorica/como-instalar-opencv-no-raspberry-pi-3.md)
     * [Introdução a OpenCV - Ensinando Computador a Ver com Python](3_etapa/python-para-todos/ensinando-computador-a-ver-com-python-e-opencv/README.md)
+      * [Robô que Detecta gatos perto do pote de ração.](3_etapa/python-para-todos/ensinando-computador-a-ver-com-python-e-opencv/robo-que-detecta-gatos-perto-do-pote-de-racao..md)
       * [Criando um Detector de Presença com webcam](3_etapa/python-para-todos/ensinando-computador-a-ver-com-python-e-opencv/criando-um-detector-de-presenca-com-webcam.md)
   * [C para BASICO](3_etapa/c-para-basico.md)
 * [Fase 4](4_etapa/README.md)
