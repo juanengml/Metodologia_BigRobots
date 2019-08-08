@@ -1,6 +1,6 @@
 # Como instalar OpenCV no raspberry pi 3 e Zero
 
-### Dependencias Basicas 
+### Dependências Básicas 
 
 ```bash
 sudo apt-get install -y build-essential cmake pkg-config
