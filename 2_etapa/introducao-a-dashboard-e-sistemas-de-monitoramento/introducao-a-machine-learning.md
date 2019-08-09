@@ -26,7 +26,7 @@ Podemos construir um robô que segue linha usando visão computacional, por exem
 
 Podemos criar nossos próprios sistemas de monitoramento inteligente de plantas de forma inteligente usando rega automatizada controla por sensores e por inteligência artificial. 
 
-![Sistema de Monitoramento de Plantas com Sensores  de umidade solo, temperatura e ambiente.](../../.gitbook/assets/image%20%281%29.png)
+![Sistema de Monitoramento de Plantas com Sensores  de umidade solo, temperatura e ambiente.](../../.gitbook/assets/image%20%283%29.png)
 
 ![](https://cdn.instructables.com/F33/U3RD/G1ZGOD3T/F33U3RDG1ZGOD3T.LARGE.jpg)
 

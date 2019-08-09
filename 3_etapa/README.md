@@ -4,17 +4,38 @@ description: A FINALIZAR
 
 # Fase 3
 
-Durante a realização deste módulo, os alunos começaram de fato a programar, nesta etapa é apresentado os conceitos de ciência da computação, onde os alunos passaram a trabalhar com linguagens de programação de alto nível, tais como C e Python. Nessa etapa também apresentará conceitos essenciais de ciências de dados e aprendizado de máquina, visto que, esses temas são de grande importância principalmente nos dias de hoje. Partindo do momento que os alunos já estão aptos a desenvolver alguns projetos utilizados tais linguagens de programação, serão propostos competições buscando a aplicabilidade dos conceitos aprendidos durante as aulas, para além disso serão incentivado que os alunos participem de Hackathons e maratona de programação, organizados pelos próprios mentores.
+A fase 3 apresenta os conceitos de Ciência da Computação, onde será trabalhado  linguagens de programação de alto nível, como C e Python, assim como, os conceitos essenciais de Ciências de Dados e Aprendizado de Máquina. 
 
-A partir dos estudos em programação de computadores em Python, serão apresentado aos alunos um rol de bibliotecas que podem ser utilizadas por eles durante a realização dos projetos. Assim, concluindo este módulo o alunos terá um leque de possibilidade para seguir, uma vez que, a partir do domínio da linguagem o aluno tem a possibilidade de realizar a  conversão de texto em código, solucionando problemas com conceitos dos módulos anteriores, lendo dados, tratando-os, aplicando comandos, estudando bibliotecas básicas para estudo de ciência de dados, estudando métodos de visão computacional baseado em aprendizado de máquina. Os temas desenvolvidos irão abordar 3 temas:
+Partindo do pressuposto que já foi desenvolvido projetos com linguagens de programação, será sugerido competições para aplicar as técnicas aprendidas até o momento, havendo incentivo à participação de Maratona de Programação e Hackathons, organizados pelos próprios mentores.
+
+A partir dos estudos em programação de computadores e microcontroladores usando Python, será apresentado uma variedade de bibliotecas que podem ser utilizadas para a realização dos projetos. Dessa forma, a conclusão da fase 3, proporciona a realização de conversão de texto em código, solucionar  problemas usando conceitos dos módulos anteriores, ler dados, limpá-los, aplicar comandos, estudar bibliotecas básicas para o estudo de ciência de dados, compreender métodos de visão computacional baseado em aprendizado de máquina.   
+
+
+**Projeto 1**  Crie um IoT que preveja quando deve regar a horta, usando um modelo de machine learning para classificação de nível de umidade de solo. 
+
+![](../.gitbook/assets/image%20%289%29.png)
+
+**Projeto 2**  Construa um chatbot que converse e aprenda usando a biblioteca chatterbot, o robô deve ser construído usando como base de dados diálogos retirados de livros de história, geografia, português, filosofia , sociologia, línguas estrangeiras. 
+
+![](http://www.rapidsofttechnologies.com/blog/wp-content/uploads/2017/12/chat-bot.gif)
+
+**Projeto 3** Crie um robô siga linha e desvie de obstáculos usando biblioteca de visão computacional, caso não tenha material para prototipação do robô, desenvolva um modelo para tal aplicação simulada.
+
+![](https://www.pyimagesearch.com/wp-content/uploads/2015/09/ball-tracking-animated-02.gif)
 
 ### PS: VALE RESSALTAR QUE TUDO NESSA FASE É SUGERIDO QUE SEJA FEITO USANDO UM SISTEMA OPERACIONAL LINUX, para mais informações acesse o link abaixo.
 
 {% page-ref page="../linux-hoje-linux-amanha-linux-pra-sempre.md" %}
 
-### TEMAs sugeridos para projetos - SUGESTÃO 
+### TEMAS sugeridos para projetos - SUGESTÃO 
 
-* Evasão Escolar - Sistema de Inteversão estudantil
-* Segurança da escola - Controle automatizado dos labs e salas
-* Competições - OBR, OBI, OBA e LARC
+* **Evasão Escolar - Sistema de Inteversão estudantil**
+* **Segurança da escola - Controle automatizado dos labs e salas**
+* **Competições - OBR, OBI, OBA e LARC**
+
+### **Final** 
+
+![](https://img.buzzfeed.com/buzzfeed-static/static/2016-05/16/5/enhanced/webdr10/anigif_enhanced-5605-1463391019-3.gif?downsize=700:*&output-format=auto&output-quality=auto)
+
+\*\*\*\*
 

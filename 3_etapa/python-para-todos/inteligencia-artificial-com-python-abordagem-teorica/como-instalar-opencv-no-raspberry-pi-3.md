@@ -67,5 +67,5 @@ sudo ldconfig
 
 ### FINAL
 
-![](../../../.gitbook/assets/image%20%2812%29.png)
+![](../../../.gitbook/assets/image%20%2817%29.png)
 

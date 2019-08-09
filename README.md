@@ -1,12 +1,12 @@
 # BIG ROBOTS COMMUNITY
 
-![](.gitbook/assets/image%20%283%29.png)
+![](.gitbook/assets/image%20%285%29.png)
 
 #### O QUE É A COMUNIDADE BIG ROBOTS ?
 
 Somos uma comunidade aberta com foco no desenvolvimento de robótica e cíencia de dados de alto nível usando tecnologias acessíveis e abertas, usamos inteligência artificial em nossas bibliotecas, pensando não só no acadêmico mas também na comunidade educacional e nos problemas gerais que cercam o Brasil. 
 
-![](.gitbook/assets/image%20%284%29.png)
+![](.gitbook/assets/image%20%286%29.png)
 
 #### QUAL O OBJETIVO DA COMUNIDADE ?
 

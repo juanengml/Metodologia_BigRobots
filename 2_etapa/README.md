@@ -8,9 +8,9 @@ description: >-
 
 ### Resolução de problemas. 
 
-Nessa Fase vamos buscar entender os problemas que nós cercam, para poder utilizar o que vimos na fase anterior para poder resolvermos usando tecnologia e inovação há nosso favor.
-
 ![](https://media2.giphy.com/media/d3mlE7uhX8KFgEmY/giphy.gif)
+
+Nessa fase, é proposta a utilização de simuladores open-source para introdução inicial a eletrônica. Com o Thinkercad será apresentado os componentes de forma prática, com a possibilidade de trabalhar e criar seus próprios circuitos eletrônicos, aplicando os conhecimentos adquiridos na realização dos projetos, sendo desafiados a construir projetos para solucionar problemas. Após introdução a eletrônica e realização dos projetos, haverá maratonas de programação com Scratch For Arduino, onde aplica-se os conhecimentos já adquiridos até o momentos nos testes com eletrônica no mundo real, dando vida às ideias e prototipando primeiros circuitos, acrescentando os conceitos básicos de análise de dados e tomada de decisão, criando dashboards interativas baseada em leitura de dados.
 
 Para fins de sugestão vamos listar problemas é possiveis soluções para resolver-los, pensando no que vamos estudar e no que foi visto.
 
@@ -79,7 +79,23 @@ Machine learning veio direto das mentes do pessoal do início da IA, e a abordag
 
 ![](https://blog.arduino.cc/wp-content/uploads/2017/01/gobang.gif)
 
-## Projetos !
+## Projetos 
 
-´´´ projeto ´´´
+### **Projeto 1: Aprenda a soldar seu crachá maker com letreiro e pilha.**
+
+![](http://designonline.org.au/wp-content/uploads/2017/12/41441676169-38857136.jpg)
+
+{% embed url="https://github.com/juanengml/SmilleProMicro" %}
+
+
+
+### **Projeto 2: Construa seu robô explorador autônomo.** 
+
+{% embed url="https://github.com/juanengml/BigRobot-little" %}
+
+![](https://hackster.imgix.net/uploads/attachments/937771/line_follow_-_9_conditions_724HbHLY2D.gif?auto=compress&gifq=35&w=400&h=300&fit=min)
+
+### **Projeto 3: Controle de laboratório - use o projeto 1 e adicione sua tag RF para usuário e controle o acesso do laboratório.** 
+
+![](https://hackster.imgix.net/uploads/attachments/473752/image22_GYssNP8EKH.gif?auto=compress&gifq=35&w=680&h=510&fit=max)
 

@@ -1,38 +1,55 @@
 ---
-description: A FINALIZAR
+description: >-
+  Nivelamento com estudo de lógica. Desenvolvendo jogos e aplicativos para
+  Android.
 ---
 
 # Fase 1
 
-#### **\[ Módulo 1: Estudo e aprendizado de Lógica \]**
+Inicialmente, ocorre a formação dos grupos de estudo a partir da realização de dinâmicas, que tem como principal objetivo, otimizar a equipe para o desenvolvimento coletivo. Com as equipes formadas, damos início a apresentação da ementa, onde serão apresentado os conteúdos e as atividades que serão abordadas no decorrer da primeira fase. 
 
-**No desenvolver deste módulo, ocorrem a formação dos grupos/times de trabalho, a formação dos grupos/times ocorrem a partir da realização de diversas dinâmica que tem como principal intuito obter grupos compostos de divididos com especificidade e qualidades distintas, dessa forma evitamos que haja as famosas “panelinhas”, inicialmente ocorre uma realização de um diagnóstico prévio, o diagnóstico tem como intuito relatar níveis de interesse e domínio dos temas/conteúdos que serão trabalhados. Concluída a formação das equipes e o diagnóstico da turma, é apresentado o conteúdo de atividades que serão desenvolvidas neste módulo. No desenvolver das atividades correspondente a este módulo os alunos passaram por algumas plataformas e conteúdos que buscaram desenvolver o raciocínio lógico dedutivo e que formaram o alicerce para o bom desenvolvimento dos demais módulos, buscando aumentar a compreensão do aluno, neste módulo são utilizados as seguintes ferramentas e plataformas: HORA DO CÓDIGO, DESENVOLVIMENTO DE JOGOS COM SCRATCH,MIT APP INVENTOR buscando pensar em soluções com ferramentas digitais dando ênfase em aplicativos móveis, web e desktop. Paralelo a utilização dessas plataformas, é incentivado ao aluno que o mesmo observe a sua realidade e façam uma autorreflexão de como os mesmos poderiam contribuir com a solucionar problemas existentes na sua realidade de maneira e com a utilização de tecnologias. No desenvolver do módulo 1, os alunos terão que criar três projetos com auxílio de mentores e outros alunos, nesses projetos o aluno terá à autonomia e a possibilidade de colocar em prática os conhecimentos obtido no decorrer do módulo.**
-
-## Primeiros Passos com Hora do Código
-
-## Primeiros Passos com Scratch
-
-## Primeiros Passos com Scratch 4 Arduino
-
-## Primeiros Passos com AppInventor
+As atividades correspondentes a fase de aprendizado de lógica utilizam plataformas e conteúdos que desenvolvem o raciocínio dedutivo e que formarão os alicerces para o progresso das fases seguintes, buscando aumentar a compreensão do aluno e pensando em soluções com ferramentas digitais, com ênfase em lógica computacional e desenvolvimento de jogos e aplicativos mobile.  
 
 
+**Serão utilizadas as seguintes plataformas:**
 
+**HORA DO CÓDIGO**
 
+![](../.gitbook/assets/image%20%2813%29.png)
 
-### **Projeto 1:**
+Criado pela **Code**.org, a **Hora do Código** é um movimento global que busca mostrar como a programação pode estar ao alcance de todos! A ideia é programar por uma **hora** – realizando atividades na escola, em família ou com amigos.
 
-**Crie seu jogo no mundo de minecraft usando a plataforma HourOfCode.**
+**SCRATCH** 
 
-\*\*\*\*
+![](../.gitbook/assets/image.png)
 
-### **Projeto 2:**
+Com o Scratch, pode programar as suas próprias estórias, jogos e animações interactivos – e partilhar as suas criações com outros na comunidade em linha. ****
 
-**Crie um Assistente Virtual com reconhecimento de voz usando App Inventor que possa conversar e interagir quando for chamado pelo nome definido em código.**  
+O Scratch ajuda os jovens a pensar de forma criativa, a raciocinar sistematicamente e a trabalhar colaborativamente — competências essenciais à vida no século XXI.
 
+O Scratch é um projecto do Lifelong Kindergarten Group do MIT Media Lab. É disponibilizado gratuitamente.
 
-### **Projeto 3:**
+**MIT APP INVENTOR**
 
-**Crie um Jogo usando Scratch que tenha fundamentação histórica, peça ideias para seu professor de história, crie mapas geográficos que representam o contexto histórico, peça ajuda para seu professor de geografia para lhe auxiliar.**  
+![](../.gitbook/assets/image%20%2815%29.png)
+
+MIT App Inventor, também conhecido como App Inventor for Android, é uma aplicação código aberto originalmente criada pela Google, e atualmente mantida pelo Massachusetts Institute of Technology
+
+Paralelo à utilização dessas plataformas, é incentivado ao aluno que observe a realidade e a situação a sua volta, e de como seu grupo pode contribuir para solucionar problemas existentes através do uso da tecnologias.
+
+Nessa fase os alunos são levados a criar três projetos sendo eles auxiliado por profissionais preparados e outros alunos, o que dá ao mesmo a possibilidade de aplicar todos os conhecimentos adquiridos durante as aulas de forma autônoma. 
+
+**Projeto 1** Jogos: Crie seu próprio jogo dentro do game Minecraft, usando a plataforma Hour Of Code.
+
+![](https://thumbs.gfycat.com/AdoredMasculineAkitainu-small.gif)
+
+**Projeto 2** Assistente Virtual: Crie um assistente virtual com reconhecimento de voz usando o App Inventor, que possa conversar e interagir quando for chamado pelo seu nome. 
+
+![](https://i.pinimg.com/originals/24/ff/55/24ff553a23d3ab9d7014a49aad32e112.gif)
+
+**Projeto 3** Jogos Educativo: Crie um jogo, estilo histórico, programado em Scratch. Pode pedir auxílio a um professor de história com ideias e na acurácia da fundamentação. Mapas geográficos que tenham contexto histórico também são essenciais, logo o conhecimento em geografia também ajudará na execução.
+
+![](https://holyokecodes.org/wp-content/uploads/2018/11/toss_the_ball.gif)
+
 
 
