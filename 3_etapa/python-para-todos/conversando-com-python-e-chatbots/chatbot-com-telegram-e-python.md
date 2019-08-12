@@ -4,7 +4,7 @@ description: Vamos construir um bot simples usando a biblioteca telepot
 
 # Bot com Telegram e Python
 
-![](../../../.gitbook/assets/image%20%288%29.png)
+![](../../../.gitbook/assets/image%20%289%29.png)
 
 ### Acesse o BotFather 
 
@@ -12,7 +12,7 @@ description: Vamos construir um bot simples usando a biblioteca telepot
 
 Siga os tutoriais para conseguir o token do seu bot.
 
-![](../../../.gitbook/assets/image%20%2810%29.png)
+![](../../../.gitbook/assets/image%20%2811%29.png)
 
 ### Instalando Biblioteca  utilizada
 

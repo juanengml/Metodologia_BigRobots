@@ -13,7 +13,7 @@ A partir dos estudos em programação de computadores e microcontroladores usand
 
 **Projeto 1**  Crie um IoT que preveja quando deve regar a horta, usando um modelo de machine learning para classificação de nível de umidade de solo. 
 
-![](../.gitbook/assets/image%20%289%29.png)
+![](../.gitbook/assets/image%20%2810%29.png)
 
 **Projeto 2**  Construa um chatbot que converse e aprenda usando a biblioteca chatterbot, o robô deve ser construído usando como base de dados diálogos retirados de livros de história, geografia, português, filosofia , sociologia, línguas estrangeiras. 
 
