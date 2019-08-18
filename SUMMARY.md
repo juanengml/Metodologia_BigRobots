@@ -72,6 +72,8 @@
     * [Introdução Raspberry Pi](4_etapa/introducao-a-linux-embarcado/tutorial-base-raspberry-pi.md)
     * [Introdução ao Intel Edison](4_etapa/introducao-a-linux-embarcado/introducao-ao-intel-edison.md)
   * [Introdução a Internet das Coisas](4_etapa/introducao-a-internet-das-coisas/README.md)
+    * [Topologia de Redes de computadores](4_etapa/introducao-a-internet-das-coisas/topologia-de-redes-de-computadores.md)
+    * [Python com Internet das Coisas](4_etapa/introducao-a-internet-das-coisas/python-com-internet-das-coisas.md)
     * [Primeiros passos com Plataformas de IoT\(Thingsboard\)](4_etapa/introducao-a-internet-das-coisas/primeiros-passos-com-plataformas-de-iot-thingsboard.md)
     * [Tutorial Thingsboard em uma maquina virtual](4_etapa/introducao-a-internet-das-coisas/tutorial-thingsboard-em-uma-maquina-virtual-parte-1.md)
   * [Projetinhos com IoT](4_etapa/projetinhos-com-iot/README.md)

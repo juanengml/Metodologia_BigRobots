@@ -9,7 +9,7 @@ description: >-
 
 ### WTF ? O que é Linux ? 
 
-![](.gitbook/assets/image%20%2812%29.png)
+![](.gitbook/assets/image%20%2813%29.png)
 
 ### OK, mas por que usar Linux ? 
 

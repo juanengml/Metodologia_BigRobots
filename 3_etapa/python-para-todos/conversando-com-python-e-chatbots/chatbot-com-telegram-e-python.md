@@ -12,7 +12,7 @@ description: Vamos construir um bot simples usando a biblioteca telepot
 
 Siga os tutoriais para conseguir o token do seu bot.
 
-![](../../../.gitbook/assets/image%20%2811%29.png)
+![](../../../.gitbook/assets/image%20%2812%29.png)
 
 ### Instalando Biblioteca  utilizada
 

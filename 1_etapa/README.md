@@ -15,7 +15,7 @@ As atividades correspondentes a fase de aprendizado de lógica utilizam platafor
 
 **HORA DO CÓDIGO**
 
-![](../.gitbook/assets/image%20%2815%29.png)
+![](../.gitbook/assets/image%20%2816%29.png)
 
 Criado pela **Code**.org, a **Hora do Código** é um movimento global que busca mostrar como a programação pode estar ao alcance de todos! A ideia é programar por uma **hora** – realizando atividades na escola, em família ou com amigos.
 
@@ -31,7 +31,7 @@ O Scratch é um projecto do Lifelong Kindergarten Group do MIT Media Lab. É dis
 
 **MIT APP INVENTOR**
 
-![](../.gitbook/assets/image%20%2818%29.png)
+![](../.gitbook/assets/image%20%2819%29.png)
 
 MIT App Inventor, também conhecido como App Inventor for Android, é uma aplicação código aberto originalmente criada pela Google, e atualmente mantida pelo Massachusetts Institute of Technology
 

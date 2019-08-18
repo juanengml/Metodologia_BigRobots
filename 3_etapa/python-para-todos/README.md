@@ -8,8 +8,6 @@ description: >-
 
 ![](https://computingdhs.co.uk/wp-content/uploads/2014/06/cropped-Python.png)
 
-### 
-
 ### O que é Python ?
 
 Python é uma linguagem de programação criada por Guido van Rossum em 1991. Os objetivos do projeto da linguagem eram: produtividade e legibilidade. Em outras palavras, Python é uma linguagem que foi criada para produzir código bom e fácil de manter de maneira rápida. Entre as características da linguagem que ressaltam esses objetivos estão:
