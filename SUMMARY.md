@@ -1,7 +1,7 @@
 # Table of contents
 
 * [BIG ROBOTS COMMUNITY](README.md)
-* [Metodologia de Ensino](1-big-robots-community.md)
+* [Metodologia de Ensino](master.md)
 * [Fase 1](1_etapa/README.md)
   * [Primeiros Passos com HORA do código](1_etapa/primeiros-passos-com-hora-do-codigo/README.md)
     * [Ajude o Angry Birds com os Porcos !](1_etapa/primeiros-passos-com-hora-do-codigo/ajude-o-angry-birds-com-os-porcos.md)

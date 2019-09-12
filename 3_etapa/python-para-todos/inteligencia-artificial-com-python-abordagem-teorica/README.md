@@ -32,7 +32,7 @@ Para instalar o sklearn no seu linux basta digitar.
 $ pip install sklearn
 ```
 
-![](../../../.gitbook/assets/image%20%2822%29.png)
+![](../../../.gitbook/assets/image%20%2823%29.png)
 
 OpenCV É um framework que permite usarmos para aplicações que envolvam trabalhar como imagens, cameras e videos. Com ela podemos construir nossos modelos de detecção de rostos, contar linhas, detecar pessoas em ambientes, podemos usar ela para construir nossos proprios modelos de reconhecimento de objetos personalizados.
 

@@ -10,6 +10,8 @@ Buscando proporcionar aos alunos um aprendizado sequenciado e completo, as  quat
 
 O desenvolvimento teórico de cada fase foi pensado para que possa ser sequenciado em aprendizagem linear, de forma que, nenhum aspecto novo seja cobrado sem antes ter sido visto anteriormente. Ao final de cada fase, o aluno será submetido a um "simulado de proficiência", no qual, é avaliado o nível de competências adquiridas na fase cursada.
 
+![](.gitbook/assets/image%20%2821%29.png)
+
 #### O QUE SÃO AS 4 FASES ?
 
 **Fase 1:** Nivelamento com estudo de lógica. Desenvolvendo jogos e aplicativos para _Android._
