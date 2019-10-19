@@ -82,4 +82,5 @@
   * [Robótica Aplicada](4_etapa/robotica-aplicada.md)
 * [Projetos](projetos.md)
 * [Linux Hoje ! Linux Amanha ! Linux PRA SEMPRE !!!!](linux-hoje-linux-amanha-linux-pra-sempre.md)
+* [Reformulação Metodologia Angah](reformulacao-metodologia-angah.md)
 
