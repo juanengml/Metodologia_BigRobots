@@ -1,6 +1,6 @@
 # Table of contents
 
-* [BIG ROBOTS COMMUNITY](README.md)
+* [Angah Blog](README.md)
 * [Metodologia de Ensino](master.md)
 * [Fase 1](1_etapa/README.md)
   * [Primeiros Passos com HORA do código](1_etapa/primeiros-passos-com-hora-do-codigo/README.md)
